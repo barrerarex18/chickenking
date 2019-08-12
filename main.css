@@ -1,0 +1,33 @@
+#logo {font-family: 'Lobster', cursive;}
+.textimage {
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    top: 40%;
+    color: red;
+    margin: 0px;
+font-size: 30px;
+    padding-right: 30px;
+}
+#toprow {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #FF7137;
+    }
+#bottomrow {
+    
+    padding-bottom: 20px;
+    background-color: #FF7137;
+}
+#map {
+    height: 400px;
+}
+#Ordernow{
+    background-color: #80381C;
+    color: white;
+}
+#social {
+    background-color: #401C0E;
+    color: white;
+    padding-bottom: 20px;
+}
